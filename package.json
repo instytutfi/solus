@@ -1,5 +1,5 @@
 {
-    "name": "solo",
+    "name": "solus",
     "description": "A Ghost theme",
     "version": "1.0.0",
     "private": true,
@@ -8,16 +8,16 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Mateusz Ciszczoń",
+        "email": "contact@mciszczon.pl",
+        "url": "https://mciszczon.pl"
     },
     "keywords": [
         "ghost",
         "theme",
         "ghost-theme"
     ],
-    "docs": "https://solo.ghost.io/about/",
+    "docs": "https://github.com/instytutfi/solus",
     "config": {
         "posts_per_page": 6,
         "image_sizes": {
